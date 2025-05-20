@@ -1,0 +1,10 @@
+Semaine,Région,Cas_nouveaux,Hospitalisations,Guérisons,Décès
+1,Est,120,15,50,2
+1,Ouest,90,10,40,1
+1,Nord,60,8,30,1
+2,Est,150,18,70,3
+2,Ouest,110,12,60,2
+2,Nord,80,9,40,1
+3,Est,180,20,90,4
+3,Ouest,130,15,70,2
+3,Nord,100,11,50,2

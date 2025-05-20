@@ -1,0 +1,42 @@
+[
+    {
+        "Province":"Qu\u00e9bec",
+        "Country":"Canada",
+        "Health region":"Gatineau",
+        "Age":50,
+        "Sex":"Male",
+        "THC":"China"
+    },
+    {
+        "Province":"Ontario",
+        "Country":"Canada",
+        "Health region":"Toronto",
+        "Age":59,
+        "Sex":"Female",
+        "THC":"China"
+    },
+    {
+        "Province":"Ontario",
+        "Country":"Canada",
+        "Health region":"Ottawa",
+        "Age":45,
+        "Sex":"Male",
+        "THC":"China"
+    },
+    {
+        "Province":"BC",
+        "Country":"Canada",
+        "Health region":"Vancouver",
+        "Age":34,
+        "Sex":"Female",
+        "THC":"China"
+    },
+    {
+        "Province":"Qu\u00e9bec",
+        "Country":"Canada",
+        "Health region":"Montr\u00e9al",
+        "Age":35,
+        "Sex":"Male",
+        "THC":"China"
+    }
+]

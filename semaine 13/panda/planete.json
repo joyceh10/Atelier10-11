@@ -1,0 +1,20 @@
+[
+  {
+    "nom": "Mercure",
+    "position": 1,
+    "diametre_km": 4879,
+    "distance_soleil_km": 57909227
+  },
+  {
+    "nom": "Vénus",
+    "position": 2,
+    "diametre_km": 12104,
+    "distance_soleil_km": 108208930
+  },
+  {
+    "nom": "Terre",
+    "position": 3,
+    "diametre_km": 12742,
+    "distance_soleil_km": 149598023
+  }
+]
